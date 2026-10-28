@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{862394F2-4CD9-5BEA-A988-5E3EC1DFB044}|esFigure\\esFigure.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\esfigure\\esfigure\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{862394F2-4CD9-5BEA-A988-5E3EC1DFB044}|esFigure\\esFigure.csproj|solutionrelative:esfigure\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862394F2-4CD9-5BEA-A988-5E3EC1DFB044}|esFigure\\esFigure.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\esfigure\\esfigure\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862394F2-4CD9-5BEA-A988-5E3EC1DFB044}|esFigure\\esFigure.csproj|solutionrelative:esfigure\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862394F2-4CD9-5BEA-A988-5E3EC1DFB044}|esFigure\\esFigure.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\esfigure\\esfigure\\ccerchio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862394F2-4CD9-5BEA-A988-5E3EC1DFB044}|esFigure\\esFigure.csproj|solutionrelative:esfigure\\ccerchio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862394F2-4CD9-5BEA-A988-5E3EC1DFB044}|esFigure\\esFigure.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\esfigure\\esfigure\\cquadrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862394F2-4CD9-5BEA-A988-5E3EC1DFB044}|esFigure\\esFigure.csproj|solutionrelative:esfigure\\cquadrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862394F2-4CD9-5BEA-A988-5E3EC1DFB044}|esFigure\\esFigure.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\esfigure\\esfigure\\crettangolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862394F2-4CD9-5BEA-A988-5E3EC1DFB044}|esFigure\\esFigure.csproj|solutionrelative:esfigure\\crettangolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862394F2-4CD9-5BEA-A988-5E3EC1DFB044}|esFigure\\esFigure.csproj|c:\\users\\lorenzo\\desktop\\c sharp\\esfigure\\esfigure\\cfigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862394F2-4CD9-5BEA-A988-5E3EC1DFB044}|esFigure\\esFigure.csproj|solutionrelative:esfigure\\cfigura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CCerchio.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\esFigure\\CCerchio.cs",
+              "RelativeDocumentMoniker": "esFigure\\CCerchio.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\esFigure\\CCerchio.cs",
+              "RelativeToolTip": "esFigure\\CCerchio.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T07:12:24.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CQuadrato.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\esFigure\\CQuadrato.cs",
+              "RelativeDocumentMoniker": "esFigure\\CQuadrato.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\esFigure\\CQuadrato.cs",
+              "RelativeToolTip": "esFigure\\CQuadrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T07:06:34.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRettangolo.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\esFigure\\CRettangolo.cs",
+              "RelativeDocumentMoniker": "esFigure\\CRettangolo.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\esFigure\\CRettangolo.cs",
+              "RelativeToolTip": "esFigure\\CRettangolo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T07:01:39.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CFigura.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\esFigure\\CFigura.cs",
+              "RelativeDocumentMoniker": "esFigure\\CFigura.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\esFigure\\CFigura.cs",
+              "RelativeToolTip": "esFigure\\CFigura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T07:00:04.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\esFigure\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "esFigure\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\esFigure\\MainWindow.axaml",
+              "RelativeToolTip": "esFigure\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T06:59:46.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\esFigure\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "esFigure\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\lorenzo\\Desktop\\c sharp\\esFigure\\esFigure\\MainWindow.axaml.cs",
+              "RelativeToolTip": "esFigure\\MainWindow.axaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvyYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T06:59:44.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

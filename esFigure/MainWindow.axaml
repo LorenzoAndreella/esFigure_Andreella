@@ -1,0 +1,33 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="esFigure.MainWindow"
+        RequestedThemeVariant="Light"
+        Title="esFigure"
+        Width="560" Height="460" MinHeight="420" MinWidth="400"
+        WindowStartupLocation="CenterScreen"
+        Background="GhostWhite"
+        >
+    <ScrollViewer>
+        <StackPanel Margin="32" Spacing="16">
+            <TextBlock Text="Calcolo Perimetro e Area di Figure" FontWeight="Bold"/>
+            <TextBlock Text="Seleziona la figura geometrica di cui vuoi calcolare il perimetro e l'area:"/>
+            <ComboBox MaxWidth="200" Name="CmbFigure"  Width="200" SelectionChanged="cmbFigureCambioSelezione">
+                <ComboBoxItem Content="Quadrato"/>
+                <ComboBoxItem Content="Rettangolo"/>
+                <ComboBoxItem Content="Cerchio"/>
+            </ComboBox>
+            <StackPanel Name="PnlParametri" Spacing="8">
+                <TextBlock Text="Inserisci i parametri della figura:"/>
+                <TextBox Name="TxtRaggio" Width="200" PlaceholderText="Scrivi raggio" IsVisible="False"/>
+                <TextBox Name="TxtBase" Width="200" PlaceholderText="Scrivi base" IsVisible="False"/>
+                <TextBox Name="TxtAltezza" Width="200" PlaceholderText="Scrivi altezza" IsVisible="False"/>
+                <TextBox Name="TxtLato" Width="200" PlaceholderText="Scrivi lato" IsVisible="False"/>
+            </StackPanel>
+            <Button Content="Calcola" Click="CalcoloValori" Padding="22" Background="CornflowerBlue"/>
+            <TextBlock Name="TxtRisultato" TextWrapping="Wrap" FontWeight="Bold"/>
+        </StackPanel>
+    </ScrollViewer>
+</Window>
